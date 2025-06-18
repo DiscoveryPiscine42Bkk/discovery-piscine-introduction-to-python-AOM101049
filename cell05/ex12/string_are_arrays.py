@@ -1,2 +1,1 @@
-print("Read the F-ing manual" \
-"")
+print("RTFM (Read the F-ing manual)")
